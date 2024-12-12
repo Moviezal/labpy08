@@ -1,6 +1,6 @@
 # Tugas Praktikum
 
-NAMA : Hafizh
+NAMA : Muhammad Hafizh Alfauzi 
 
 KELAS: TI.24.A5
 
